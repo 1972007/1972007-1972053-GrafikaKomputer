@@ -1,0 +1,11 @@
+Model Information:
+* title:	HD Creeper [ Minecraft Bedrock Edition ]
+* source:	https://sketchfab.com/3d-models/hd-creeper-minecraft-bedrock-edition-b8550899fd204658b9c4d27190588037
+* author:	ArtsByKev (https://sketchfab.com/ArtsByKev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HD Creeper [ Minecraft Bedrock Edition ]" (https://sketchfab.com/3d-models/hd-creeper-minecraft-bedrock-edition-b8550899fd204658b9c4d27190588037) by ArtsByKev (https://sketchfab.com/ArtsByKev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

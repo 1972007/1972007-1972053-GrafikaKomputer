@@ -1,0 +1,11 @@
+Model Information:
+* title:	HD Ghast [ Minecraft Bedrock Edition ]
+* source:	https://sketchfab.com/3d-models/hd-ghast-minecraft-bedrock-edition-4a3c8e65815246cfa3c4de56bb0ef3b3
+* author:	ArtsByKev (https://sketchfab.com/ArtsByKev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HD Ghast [ Minecraft Bedrock Edition ]" (https://sketchfab.com/3d-models/hd-ghast-minecraft-bedrock-edition-4a3c8e65815246cfa3c4de56bb0ef3b3) by ArtsByKev (https://sketchfab.com/ArtsByKev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

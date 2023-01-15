@@ -1,0 +1,11 @@
+Model Information:
+* title:	great-oak-tree-with
+* source:	https://sketchfab.com/3d-models/great-oak-tree-with-86f24994b9c241b283c834b72488075a
+* author:	madexc (https://sketchfab.com/madexc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "great-oak-tree-with" (https://sketchfab.com/3d-models/great-oak-tree-with-86f24994b9c241b283c834b72488075a) by madexc (https://sketchfab.com/madexc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
