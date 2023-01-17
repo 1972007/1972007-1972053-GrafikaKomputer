@@ -22,12 +22,10 @@ class CharacterControl{
         this.cameraTarget = new THREE.Vector3()
 
         this.fadeDuration = 0.2
-        this.runVelocity = 150
+        this.runVelocity = 15
         this.walkVelocity = 5
         
-        this.storedFall = 0
-        this.jumpCount =0
-        this.jumpMaxCount=3 
+        this.storedFall = 0 
         this.rigidBody = rigidBody
         this.mass=1   
     }

@@ -26,7 +26,6 @@ import RAPIER from 'https://cdn.skypack.dev/@dimforge/rapier3d-compat';
 // "assets/maxparata_voxel_mountain/MountainRocks-7.obj",
 // "assets/maxparata_voxel_mountain/MountainRocks-8.obj",
 // "assets/maxparata_voxel_mountain/MountainRocks-9.obj"]
-let audio_loader = new THREE.AudioLoader()
 const bodies = []
 
 
@@ -43,7 +42,7 @@ const orbitControls = new THREE.OrbitControls(cam, renderer.domElement)
 orbitControls.enableDamping = true
 orbitControls.maxDistance = 30
 //FOG
-scene.fog = new THREE.Fog(0xffffff, 100, 1000);
+scene.fog = new THREE.Fog(0xffffff, 10, 1000);
 
 
 
@@ -500,15 +499,16 @@ window.addEventListener('resize', function () {
     cam.updateProjectionMatrix();
 });
 
-
+let audio_loader = new THREE.AudioLoader()
 let pendengar = new THREE.AudioListener();
-cam.add(pendengar);
 let sound1 = new THREE.Audio(pendengar);
 let loader = audio_loader.load('assets/soundtrack.ogg', (hasil) => {
     sound1.setBuffer(hasil);
     sound1.setLoop(true);
     sound1.play();
 });
+cam.add(pendengar);
+    
 const clock = new THREE.Clock()
 RAPIER.init().then(() => {
     let gravity = { x: 0.0, y: -9.8, z: 0.0 };
@@ -548,6 +548,8 @@ RAPIER.init().then(() => {
         renderer.render(scene, cam);
         setTimeout(gameLoop, 16)
     }
+    
+
     gameLoop()
 
 })
